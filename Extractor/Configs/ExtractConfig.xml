@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Extracts>
+  <ExtractCreators>
+    <ExtractCreator>
+      <Name></Name>
+      <StoredProcedures>
+        <StoredProcedure></StoredProcedure>
+      </StoredProcedures>
+      <Folder></Folder>
+      <BusinessUnits>
+        <BusinessUnit></BusinessUnit>
+      </BusinessUnits>
+      <TargetEnvironment></TargetEnvironment>
+      <Enabled></Enabled>
+    </ExtractCreator>
+  </ExtractCreators>
+  <ExtractConsumers>
+    <ExtractConsumer>
+      <Name></Name>
+      <SourceFolder></SourceFolder>
+      <FileTypes>
+        <FileType></FileType>
+      </FileTypes>
+      <TargetServer></TargetServer>
+      <Port></Port>
+      <UserName></UserName>
+      <Password></Password>
+      <TargetFolder></TargetFolder>
+      <ConsumerEncryptor>
+        <EncryptionType></EncryptionType>
+        <PublicKeyPath></PublicKeyPath>
+        <PrivateKeyPath></PrivateKeyPath>
+        <Passphrase></Passphrase>
+      </ConsumerEncryptor>
+      <Enabled></Enabled>
+    </ExtractConsumer>
+  </ExtractConsumers>
+</Extracts>
